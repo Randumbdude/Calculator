@@ -1,0 +1,2 @@
+C:\Users\Riley\source\repos\Calculator\bin\Release\netcoreapp3.1\win-x64\publish\Calculator.pdb
+C:\Users\Riley\source\repos\Calculator\bin\Release\netcoreapp3.1\win-x64\publish\Calculator.exe
